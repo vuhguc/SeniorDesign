@@ -1,0 +1,3 @@
+* As a user of the website, I want to search for medical articles from my desired keywords, so that I could have a better understandings of the progress in our medical world
+* As an UI designer, I want to collect the interactions of the users with the UI, so that I could come up with a better and more convenient design for our website
+* As the project researcher, I want to know which articles are interesting based on user's interactions, so that I could use that record to develop ranking algorithm
