@@ -18,4 +18,4 @@ Query System (Covid-19 IQS) was born from this idea
 To be updated later
 
 ## 3. User Stories and Design Diagrams
-#### [User Stories] (./User-Stories.md)
+#### [User Stories](User-Stories.md)
