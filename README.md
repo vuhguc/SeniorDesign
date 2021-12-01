@@ -42,7 +42,10 @@ As the fight against COVID-19 continues, it is critical to discover and accumula
 There is no associated expenses for this project
 
 ## 10. Appendix
-#### [Link to the GitHub repository - to be added later](https://google.com)
+#### [Link to the GitHub repository](https://github.com/lekq/Covid-19-Intelligent-Query-System)
+* NOTE: Our advisor wants us to keep the original repository private. However, he gave us permission
+to make a copy of it. Therefore, the repository in the link is newly created, only has one commit, 
+might not have any further changes and is there for grading purpos only 
 
 
 
