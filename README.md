@@ -48,7 +48,7 @@ to make a copy of it. Therefore, the repository in the link is newly created, on
 might not have any further changes and is there for grading purpose only
 
 ## 11. User manual
-#### [a. Hoang Vu's self-assessment essay](Assignment/COVID-IQS Instruction.pdf)
+#### [User manual](Assignment/COVID-IQS-Instruction.pdf)
 
 
 
