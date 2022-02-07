@@ -45,7 +45,11 @@ There is no associated expenses for this project
 #### [Link to the GitHub repository](https://github.com/lekq/Covid-19-Intelligent-Query-System)
 * NOTE: Our advisor wants us to keep the original repository private. However, he gave us permission
 to make a copy of it. Therefore, the repository in the link is newly created, only has one commit, 
-might not have any further changes and is there for grading purpos only 
+might not have any further changes and is there for grading purpose only
+
+## 11. User manual
+#### [a. Hoang Vu's self-assessment essay](Assignment/COVID-IQS Instruction.pdf)
+
 
 
 
