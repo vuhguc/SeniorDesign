@@ -12,8 +12,8 @@
 #### Project Topic Area
 * Our project aims to develop a web-search application on a medical document database and collect user interactions and feedbacks to boost the search algorithm.
 
-#### Project Abstract
-As the fight against COVID-19 continues, it is critical to discover and accumulate knowledge in scientific literature to combat the pandemic. In this work, we shared the experience in developing an intelligent query system on COVID-19 literature.  The system includes a text-based search engine using Elasticsearch for users to query the COVID-19 literature database. We also collect users' interactions and feedbacks to research user needs and improve our search algorithms with learning to rank techniques. The successful implementation of the COVID-IQS can support knowledge discovery and hypothesis generation in our institution and can be shared with other institutions to make a broader impact. 
+#### Project Abstract (updated)
+The ongoing fight against COVID-19 pandemic creates the need to discover, to accumulate, and to share scientific literature among physically apart members within research teams. Therefore, it becomes more critical to design a tool which can integrates a search engine on medical articles and provides the ability for all users to interact with shared resources. For this purpose, we decided to create COVID-19 Intelligent Query System (COVID-IQS). The system includes a text-based search engine using Elasticsearch for users to perform searching on our preprocessed article database. We also collect users' interactions and feedbacks to research user needs and improve our search algorithms with machine-learned ranking techniques. In addition, COVID-IQS allows the users to host a shared project, invite other users, and assign roles and privileges to all project members. The successful implementation of the COVID-IQS can support knowledge discovery and hypothesis generation in our institution and can be shared with other institutions to make a broader impact 
 
 Problem statement: there is a need for a search engine for medical documents with reliable source for both informational and research purpose
 

@@ -4,17 +4,18 @@
 #### a. Team names
 - Danny Wu, advisor | wutz@mail.uc.edu
 - Hoang Vu, student | vuhg@mail.uc.edu
-- Khanh Le, student | lekq@mail.uc.edu
-#### b. Project abstract
-As the fight against COVID-19 continues, it is critical to discover and accumulate knowledge in scientific literature to combat the pandemic. In this work, we shared the experience in developing an intelligent query system on COVID-19 literature.  The system includes a text-based search engine using Elasticsearch for users to query the COVID-19 literature database. We also collect users' interactions and feedbacks to research user needs and improve our search algorithms with learning to rank techniques. The successful implementation of the COVID-IQS can support knowledge discovery and hypothesis generation in our institution and can be shared with other institutions to make a broader impact. 
+- Khanh Le, student | lekq@mail.uc.edu 
 
 
 ## [2. Project Description](Project-Description.md)
 
 
-## 3. User Stories and Design Diagrams
-#### [a. User Stories](User-Stories.md)
-#### [b. Design Diagrams and Description of Diagrams](Design_Diagrams)
+## [3. User Interface Specification](User_Interface_Specification) 
+
+## [4. Test plan and Results](Test_Plan)
+#### [a. Original test plan + Updated Result](Test_Plan/TestPlan_and_UpdatedResult.docx)
+
+
 
 ## 4. Project Tasks and Timeline
 #### [a. Tasklist](Tasklist.md)
