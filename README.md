@@ -17,18 +17,18 @@
 
 
 ## 5. User Manual
-#### [a. User Manual (PDF version) )](User_Manual/COVID-IQS%20Instruction.pdf)
+#### [a. User Manual (PDF version)](User_Manual/COVID-IQS%20Instruction.pdf)
 #### [b. FAQs ](User_Manual/FAQ.docx)
 
 ## [6. Spring Final PPT Presentation](Presentation_Slidedeck.pptx)
 ## [7. Final Expo Poster](ExpoPoster.pdf)
 
 ## 8. Assessment
-#### [a. Khanh's assessment )](Personal_Assessment/Khanh_Le)
-#### [b. Hoang's assessment )](Personal_Assessment/Hoang_Vu)
+#### [a. Khanh's assessment](Personal_Assessment/Khanh_Le)
+#### [b. Hoang's assessment](Personal_Assessment/Hoang_Vu)
 
 ## 9. Summary of Hours and Justification
-#### [a. Khanh's summary )](Personal_Assessment/Khanh_Le)
+#### [a. Khanh's summary](Personal_Assessment/Khanh_Le)
 
 
 
